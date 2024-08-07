@@ -1,3 +1,18 @@
+# Create React App
+## Installation
+```bash
+node -v
+npx create-react-app react-weather-app
+
+cd react-weather-app
+```
+
+## Additional packages
+```bash
+npm i react-accessible-accordion
+npm i react-select-async-paginate
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
