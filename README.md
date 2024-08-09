@@ -1,4 +1,4 @@
-# Create React Weather App with using the OpenWeatherMap API and GeoDB API with places autocomplete
+Create React Weather App with using the OpenWeatherMap API and GeoDB API with places autocomplete.
 ## Installation
 ```bash
 node -v
