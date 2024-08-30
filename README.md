@@ -1,5 +1,8 @@
 Create React Weather App with using the OpenWeatherMap API and GeoDB API with places autocomplete.
 ## Installation
+Clone the repo and run `npm install` in the root directory to install the dependencies. To use the application locally, run `npm start` in the root directory and navigate to http://localhost:3000 in your browser. The page will reload if you make edits.
+
+## First Installation
 ```bash
 node -v
 npx create-react-app react-weather-app
